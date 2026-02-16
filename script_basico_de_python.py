@@ -1,4 +1,4 @@
-# # Tutorial 1: Python Básico
+# # Tutorial 1: Python Básico Dilan
 # Este módulo cubre los fundamentos de Python.
 # Usar `# %%` para ejecutar cada celda de forma independiente en VSCode.
 
